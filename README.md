@@ -1,6 +1,6 @@
-# Desafio Go Lang com Docker
+# Go Lang Challenge with Docker
 
-Desafio Code Education para criar uma imagem de GoLang com docker.
+Code Education Challenge Course to create a GoLang image with docker.
 
 To Run: 
 docker run lopreto/codeeducation
